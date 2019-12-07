@@ -8,7 +8,7 @@
                     I'am an Profile Component
                 </div>
             </div>
-        </div>card-body
+        </div>
     </div>
 </template>
 
